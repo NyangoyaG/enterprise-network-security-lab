@@ -1,2 +1,1 @@
-# resume-writing-with-ai
-# portfolio
+# Enterprise Network Security Lab
